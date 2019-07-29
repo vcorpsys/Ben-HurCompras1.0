@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "SheHur Compras",
+  "short_name": "SheHur Compras",
+  "version": "com.benhur.compras",
+  "description": "Controle de compras pessoais da Sheila e do Ben-Hur.",
+  "author": "Ben-Hur Varriano",
+  "icons": [],
+  "start_url": "index.html"
+}
